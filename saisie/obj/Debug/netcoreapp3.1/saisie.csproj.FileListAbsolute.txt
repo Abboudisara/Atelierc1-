@@ -1,0 +1,3 @@
+C:\Users\Youcode\Desktop\Atelierc1-\saisie\obj\Debug\netcoreapp3.1\saisie.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\Atelierc1-\saisie\obj\Debug\netcoreapp3.1\saisie.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\Atelierc1-\saisie\obj\Debug\netcoreapp3.1\saisie.csproj.CoreCompileInputs.cache
